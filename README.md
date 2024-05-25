@@ -25,7 +25,7 @@ We will build a question-and-answer system using a large language model (LLM) th
 - Chromadb as a vector store
 - Few-shot learning
 
-![Screenshot](images/2.PNG)
+![Screenshot](images/2.png)
 
 In the UI, the store manager will ask questions in natural language, and the system will generate answers.
 
@@ -50,7 +50,7 @@ In the UI, the store manager will ask questions in natural language, and the sys
   * Few-shot learning techniques are used to improve the system's ability to understand and generate accurate answers from limited examples.
   * This approach allows the system to learn and adapt quickly to new types of questions with minimal training data.
 
-![Screenshot](images/3.PNG)
+![Screenshot](images/3.png)
 
 ## Installation
 
